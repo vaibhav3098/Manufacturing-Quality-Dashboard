@@ -1,5 +1,5 @@
 # Manufacturing-Quality-Dashboard
-[SQL Server] | [Power BI] | [GitHub]
+SQL Server | Power BI | GitHub
 
 ## Project Highlights
 
