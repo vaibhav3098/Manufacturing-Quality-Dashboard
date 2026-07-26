@@ -1,4 +1,7 @@
 # Manufacturing-Quality-Dashboard
+![SQL Server]
+![Power BI]
+![GitHub]
 ## Project Highlights
 
 * End-to-end Manufacturing Quality Analytics project
