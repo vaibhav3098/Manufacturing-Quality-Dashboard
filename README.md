@@ -28,6 +28,7 @@ The project follows a real-world analytics workflow:
 * Recommendation of process improvement opportunities
 
 Rather than focusing only on visualization, the project emphasizes converting raw manufacturing data into actionable business insights that support operational decision-making.
+<img src="https://github.com/vaibhav3098/Manufacturing-Quality-Dashboard/blob/ff3486124e354cde20978761fe3e23daecd95034/screenshots/dashboard_overview.png">
 
 ## Business Problem
 
@@ -410,6 +411,7 @@ Future enhancements include:
 ### Executive Dashboard
 
 <img src="https://github.com/vaibhav3098/Manufacturing-Quality-Dashboard/blob/ff3486124e354cde20978761fe3e23daecd95034/screenshots/dashboard_overview.png">
+<img src="https://github.com/vaibhav3098/Manufacturing-Quality-Dashboard/blob/ff3486124e354cde20978761fe3e23daecd95034/screenshots/dashboard_overview.png">
 
 The dashboard provides an interactive view of manufacturing performance through production KPIs, quality metrics, defect analysis, and operational filtering.
 
@@ -439,3 +441,14 @@ Mechanical Design Engineer transitioning into Data Analytics.
 
 For suggestions or feedback, feel free to connect through GitHub.
 
+## Key Learnings
+
+During this project I learned:
+
+• Writing business-oriented SQL queries
+• KPI development
+• Window Functions
+• Conditional Aggregation
+• Dashboard storytelling
+• Power BI DAX
+• Business recommendation writing
